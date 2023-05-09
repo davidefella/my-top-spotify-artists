@@ -2,7 +2,7 @@
 
 Current version: 1.0.0
 
-Live deploy: https://my-api-spotify.onrender.com/
+Live deploy: [https://my-api-spotify.onrender.com/](https://my-top-spotify-artists.onrender.com/)
 
 ## Overview
 
